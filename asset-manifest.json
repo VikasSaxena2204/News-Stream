@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/News-Stream/static/css/main.9bd04130.css",
+    "main.js": "/News-Stream/static/js/main.aee1847e.js",
+    "static/js/453.35c892eb.chunk.js": "/News-Stream/static/js/453.35c892eb.chunk.js",
+    "index.html": "/News-Stream/index.html",
+    "main.9bd04130.css.map": "/News-Stream/static/css/main.9bd04130.css.map",
+    "main.aee1847e.js.map": "/News-Stream/static/js/main.aee1847e.js.map",
+    "453.35c892eb.chunk.js.map": "/News-Stream/static/js/453.35c892eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd04130.css",
+    "static/js/main.aee1847e.js"
+  ]
+}
